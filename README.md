@@ -6,9 +6,26 @@ A microcontroller project, written in CircuitPython, designed to produce various
 
 ## Project Visuals
 
-* ![example 1](https://github.com/4csullivan/LED-Matrix-Visualizer/blob/main/examples/EXAMPLE1.JPEG "Example 1")
-* ![example 2](https://github.com/4csullivan/LED-Matrix-Visualizer/blob/main/examples/EXAMPLE2.JPEG "Example 2")
-* ![example 3](https://github.com/4csullivan/LED-Matrix-Visualizer/blob/main/examples/EXAMPLE3.JPEG "Example 3")
+<details>
+  <summary>Example 1</summary>
+  <img src="https://github.com/4csullivan/LED-Matrix-Visualizer/blob/main/examples/EXAMPLE1.JPEG" style="height:500px">
+</details>
+<details>
+  <summary>Example 2</summary>
+  <img src="https://github.com/4csullivan/LED-Matrix-Visualizer/blob/main/examples/EXAMPLE2.JPEG" style="height:500px">
+</details>
+<details>
+  <summary>Example 3</summary>
+  <img src="https://github.com/4csullivan/LED-Matrix-Visualizer/blob/main/examples/EXAMPLE3.JPEG" style="height:500px">
+</details>
+
+---
+
+## Features
+
+* **Multiple designs** that have unique interactions with audio
+* **Color gradients** to further visualize the audio effects
+* **Button controls** to cycle through the designs and colors
 
 ---
 
